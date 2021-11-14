@@ -1,0 +1,1 @@
+/Users/morpheus/dev/github/kboot-mongo-replicaset/build/classes/kotlin/main/ch/keepcalm/kboot/mongo/KbootMongoReplicasetApplication.class:/Users/morpheus/dev/github/kboot-mongo-replicaset/build/classes/kotlin/main/ch/keepcalm/kboot/mongo/KbootMongoReplicasetApplicationKt.class
